@@ -1,0 +1,26 @@
+segment_sources:
+  I604E6AC9:
+    type: origin_type
+    relation: translation
+    language: en
+  IB5B46BAF:
+    type: origin_type
+    relation: translation
+    language: pt
+  I33B4055E:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  68d5b8fd1d8d45e38d3e687bbde07b93:
+    I604E6AC9: 19c9a45cc4c34718a98fe408cf30eb81
+    IB5B46BAF: c8ead597ccc44186a374d26903103f23
+    I33B4055E: 7808d481772b43628b64d1e78769541f
+  a5e72d292d3d42d3acbc03a7e0fbcd4a:
+    I604E6AC9: 45e5ca0e3a124805ad94f6a131bc6784
+    IB5B46BAF: 8f4e1815a91b4230bdac73fe6804f10d
+    I33B4055E: 4287b7f57c484180b6fc13260073d9f6
+  6c0670a089af496a98adc24e935ec6eb:
+    I604E6AC9: 9def7ea843a04a0a8493cc9d8ff90ce8
+    IB5B46BAF: 2622423855cc4ef7bd93121ed5a203b9
+    I33B4055E: 55f5b424b02040c6a1feac3cd0fcba54
